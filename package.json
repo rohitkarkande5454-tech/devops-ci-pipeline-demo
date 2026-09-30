@@ -1,4 +1,3 @@
-cat > package.json << 'EOF'
 {
   "name": "devops-ci-demo",
   "version": "1.0.0",
@@ -10,4 +9,3 @@ cat > package.json << 'EOF'
     "jest": "^29.0.0"
   }
 }
-EOF
